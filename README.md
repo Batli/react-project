@@ -15,7 +15,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository and navigate to the project folder.
 2. Run `npm install`.
 3. Start the project using `npm run start`.
-4. Access the React website at http://localhost:3000 and the API at http://localhost:3001.
+4. Access the React website at http://localhost:3006 and the API at http://localhost:3002.
 
 ### API Consumption
 
